@@ -2,7 +2,9 @@ VisualPDE (<a href="https://visualpde.com">visualpde.com</a>) provides programma
 
 The program for each simulation is included in the link, so the following show some images and animations along with the links for simulations I have made for dynamics class.
 
-<b> ../images/instability_comparison.gif </b>
+<img width="500" src="images/instability_comparison.gif"></img>
+
+
 
 
 
