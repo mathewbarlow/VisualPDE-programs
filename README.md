@@ -12,6 +12,11 @@ The program for each simulation is included in the link, so the following show s
 <a href="https://visualpde.com/sim/?mini=vemJY_ht">https://visualpde.com/sim/?mini=vemJY_ht</a><br>
 <img width="250" src="images/fujiwhara.gif"></img>
 
+<b>shallow water equation, geostrophic adjustment</b> (click to add wind pulse):<br>
+<a href="https://visualpde.com/sim/?mini=-1-Kn1AO">https://visualpde.com/sim/?mini=-1-Kn1AO</a><br>
+<img width="250" src="images/geostrophic_adjustment.gif"></img>
+
+
 
 
 
