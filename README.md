@@ -2,6 +2,8 @@
 
 The program for each simulation is included in the link, so the following show some animations along with the corresponding links for simulations I have made for atmospheric dynamics classes. These simulations are mostly based on examples from the website and include simulations with the barotropic vorticity equation, the shallow water equations, and 2D convection.
 
+If you find any errors, make improvements, or have your own atmospheric dynamics-related simulations, please let me know at Mathew_Barlow@uml.edu.
+
 <b>vorticity equation, simple shear instability:<br></b>
 <a href="[https://visualpde.com/sim/?mini=vQRSCXrW](https://visualpde.com/sim/?mini=6eGPzG-3)">https://visualpde.com/sim/?mini=vQRSCXrW</a><br>
 <b>vorticity equation, vortex ring instability:<br></b>
