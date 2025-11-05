@@ -5,11 +5,11 @@ The program for each simulation is included in the link, so the following show s
 
 <b>vorticity equation, vortex ring instability:<br></b>
 <a href="https://visualpde.com/sim/?mini=vQRSCXrW">https://visualpde.com/sim/?mini=vQRSCXrW</a><br>
-<img width="500" src="images/instability_comparison.gif"></img>
+<img height="500" src="images/instability_comparison.gif"></img>
 
 <b>vorticity equation, Fujiwhara effect:<br></b>
 <a href="https://visualpde.com/sim/?mini=vemJY_ht">https://visualpde.com/sim/?mini=vemJY_ht</a><br>
-<img width="250" src="images/fujiwhara.gif"></img>
+<img height="250" src="images/fujiwhara.gif"></img>
 
 
 
