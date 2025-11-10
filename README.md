@@ -20,7 +20,7 @@ If you find any errors, make improvements, or have your own atmospheric dynamics
 
 <b>2D convection, added buoyancy</b> (click to add wind buoyancy):<br>
 <a href="https://visualpde.com/sim/?mini=L6vapilm">https://visualpde.com/sim/?mini=L6vapilm</a><br>
-<img width="250" src="images/added_buoyancy.gif"></img>
+<img width="250" src="images/add_buoyancy.gif"></img>
 
 
 
