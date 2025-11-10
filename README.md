@@ -22,6 +22,11 @@ If you find any errors, make improvements, or have your own atmospheric dynamics
 <a href="https://visualpde.com/sim/?mini=L6vapilm">https://visualpde.com/sim/?mini=L6vapilm</a><br>
 <img width="250" src="images/add_buoyancy.gif"></img>
 
+<b>2D convection, heating at lower boundary:<br></b>
+<a href="https://visualpde.com/sim/?mini=kD8Gf0Ni">https://visualpde.com/sim/?mini=kD8Gf0Ni</a><br>
+<img width="250" src="images/convection_heating.gif"></img>
+
+
 
 
 
