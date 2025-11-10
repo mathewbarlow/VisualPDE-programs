@@ -18,6 +18,11 @@ If you find any errors, make improvements, or have your own atmospheric dynamics
 <a href="https://visualpde.com/sim/?mini=-1-Kn1AO">https://visualpde.com/sim/?mini=-1-Kn1AO</a><br>
 <img width="250" src="images/geostrophic_adjustment.gif"></img>
 
+<b>2D convection, added buoyancy</b> (click to add wind buoyancy):<br>
+<a href="https://visualpde.com/sim/?mini=L6vapilm">https://visualpde.com/sim/?mini=L6vapilm</a><br>
+<img width="250" src="images/added_buoyancy.gif"></img>
+
+
 
 
 
