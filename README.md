@@ -26,6 +26,10 @@ If you find any errors, make improvements, or have your own atmospheric dynamics
 <a href="https://visualpde.com/sim/?mini=kD8Gf0Ni">https://visualpde.com/sim/?mini=kD8Gf0Ni</a><br>
 <img width="250" src="images/convection_heating.gif"></img>
 
+<b>Stommel's model of the ocean gyres:<br></b>
+<a href="https://visualpde.com/sim/?mini=DJnjktud">https://visualpde.com/sim/?mini=DJnjktud</a><br>
+<img width="250" src="images/stommel_height_f_and_beta.gif"></img>
+
 
 
 
