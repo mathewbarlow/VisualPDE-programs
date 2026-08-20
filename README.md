@@ -5,7 +5,7 @@ The program for each simulation is included in the link, so the following show s
 If you find any errors, make improvements, or have your own atmospheric dynamics-related simulations, please let me know at Mathew_Barlow@uml.edu.
 
 <b>vorticity equation, simple shear instability:<br></b>
-<a href="[https://visualpde.com/sim/?mini=vQRSCXrW](https://visualpde.com/sim/?mini=6eGPzG-3)">https://visualpde.com/sim/?mini=vQRSCXrW</a><br>
+<a href="https://visualpde.com/sim/?mini=6eGPzG-3">https://visualpde.com/sim/?mini=6eGPzG-3</a><br>
 <b>vorticity equation, vortex ring instability (hurricane eyewall):<br></b>
 <a href="https://visualpde.com/sim?mini=eEFbezSw">https://visualpde.com/sim?mini=eEFbezSw</a><br>
 <img width="500" src="images/instability_comparison.gif"></img>
