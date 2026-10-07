@@ -30,6 +30,12 @@ If you find any errors, make improvements, or have your own atmospheric dynamics
 <a href="https://visualpde.com/sim/?mini=DJnjktud">https://visualpde.com/sim/?mini=DJnjktud</a><br>
 <img width="250" src="images/stommel_height_f_and_beta.gif"></img>
 
+<b>Equatorial beta plane thermocline:<br></b>
+<a href="https://visualpde.com/sim?mini=Juu0sXvn">https://visualpde.com/sim?mini=Juu0sXvn</a><br>
+<img width="250" src="images/eq_beta_plane.gif"></img>
+
+
+
 
 
 
